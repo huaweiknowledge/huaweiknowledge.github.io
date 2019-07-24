@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      网络技术的专有名词
+subtitle:   
+date:       2019-07-24
+author:     chauncey
+header-img: img/post-bg-kuaidi.jpg
+catalog: true
+tags:
+    - 网络
+---
+
+
+**FEC** Forwarding Equivalence Class  转发等价类，是一组具有某些共性的数据流集合。
