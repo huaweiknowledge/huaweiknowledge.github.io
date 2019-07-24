@@ -11,4 +11,5 @@ tags:
 ---
 
 
-**FEC** Forwarding Equivalence Class  转发等价类，是一组具有某些共性的数据流集合。
+**FEC** Forwarding Equivalence Class  转发等价类，是一组具有某些共性的数据流集合
+**NHLFE** Next Hop Lable Forwarding Entry  进行标签转发是用到
