@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
 SEOTitle: 小雄的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/bear.jpg
 email: chaunceyzheng92@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 小雄的博客, chauncey, iOS, 网络, Phone"
+keyword: "BY, BY Blog, 小雄的博客, chauncey, 网络"
 url: "http://huaweiknowledge.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
