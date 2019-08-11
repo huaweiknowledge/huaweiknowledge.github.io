@@ -41,12 +41,20 @@ tags:
      [PE-1-bgp-huawei]peer 10.1.1.2 as-number 10
      [PE-1-bgp-af-vpnv4]peer 3.3.3.3 enable
 
-## 一、
+## 五、CE路由器需要注入Loopback接口
 
-## 一、
+可以通过Import-route direct或者network X.X.X.X 掩码
 
-## 一、
+     [CE-1]bgp 10
+     [CE-1-bgp]Import-route direct
 
-## 一、
+## 六、引入VPN路由
 
-## 一、
+     [PE-1-bgp-huawei]Import-route direct
+     
+## 七、结果
+
+![QQ截图20190811231337.jpg](https://i.loli.net/2019/08/11/rihl4eXC6KJFu2I.jpg)
+
+[![exPpvR.jpg](https://s2.ax1x.com/2019/08/11/exPpvR.jpg)](https://imgchr.com/i/exPpvR)
+
