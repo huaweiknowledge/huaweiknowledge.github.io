@@ -2,7 +2,7 @@
 layout:     post
 title:      MPLS BGP VPN
 subtitle:   
-date:       2019-07-29
+date:       2019-07-26
 author:     chauncey
 header-img: img/d021cd5db5f453de969fa251d0fe6d56.jpg
 catalog: true
