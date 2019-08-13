@@ -76,9 +76,6 @@ tags:
 
      [ipv4-family-vpnv4]peer 1.1.1.1 reflect-client
      [ipv4-family-vpnv4]peer 1.1.1.1 next-hop-local
-     [ipv4-family-vpnv4]peer 2.2.2.2 next-hop-local
-     [ipv4-family-vpnv4]peer 5.5.5.5 next-hop-local
-     [ipv4-family-vpnv4]peer 6.6.6.6 next-hop-local
      []Tunnel-selector HAVE permit node 10
      [ASG-3-tunnel-selector]apply tunnel-policy 1
      [ipv4-family-vpnv4]Tunnel-selector HAVE 
