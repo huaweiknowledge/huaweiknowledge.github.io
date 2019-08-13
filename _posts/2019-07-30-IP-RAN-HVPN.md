@@ -60,13 +60,6 @@ tags:
      []display mpls te Tunnel-interface Tunnel 0/0/13
      []tracert lsp te Tunnel 0/0/13
      []tracert lsp te Tunnel 0/0/13 Hot-Standby
-     
-     
-     
-     
-     []Tunnel-policy 13
-     []Tunnel select-seq cr-lsp lsp load-balanced-nunmber 1
-     [ip-vpn-instance]Tnl-policy 13
 
 ### 四   VPN业务（HVPN）
 
